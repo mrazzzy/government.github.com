@@ -864,10 +864,13 @@ U.S. Federal:
   - cisagov
   - cloud-gov
   - cmsgov
+  - Code-dot-mil
   - commercedataservice
   - commercegov
   - demand-driven-open-data
   - department-of-veterans-affairs
+  - deptofdefense
+  - dhs-gov
   - didsr
   - digital-analytics-program
   - dodcio
@@ -885,6 +888,7 @@ U.S. Federal:
   - federal-courts-software-factory
   - federaltradecommission
   - fedspendingtransparency
+  - fema
   - firelab
   - globegit
   - gopleader
@@ -918,10 +922,13 @@ U.S. Federal:
   - nasaworldwind
   - NationalGuard
   - nationalparkservice
+  - nationalsecurityagency
   - navadmc
+  - NCI-Agency
   - NCRN
   - NeoGeographyToolkit
   - nesii
+  - ngageoint
   - ngds
   - nhanes
   - nidcd
@@ -933,6 +940,7 @@ U.S. Federal:
   - NOAA-ORR-ERD
   - noaa-pmel
   - ntia
+  - NUWCDIVNPT
   - ombegov
   - Open-Sat
   - opengovplatform
@@ -950,12 +958,14 @@ U.S. Federal:
   - SSAgov
   - state-hiu
   - sunpy
+  - transcom
   - us-bea
   - US-CBP
   - US-Department-of-the-Treasury
   - usagov
   - usaid
   - usajobs
+  - usarmyresearchlab
   - usasearch
   - usbr
   - uscensusbureau
@@ -991,6 +1001,7 @@ U.S. Federal:
   - USGS-R
   - USGS-WiM
   - usnationalarchives
+  - USNavalResearchLaboratory
   - usopm
   - USPS
   - USPTO
