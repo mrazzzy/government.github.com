@@ -375,7 +375,6 @@ Japan:
   - gsi-cyberjapan
   - nhohq
   - nims-dpfc
-  - wakayama-pref-org
 
 Jersey:
   - statesofjersey
@@ -424,7 +423,6 @@ Netherlands:
   - dataoverheid
   - GemeenteAlmelo
   - GemeenteEde
-  - gemeentemuseum
   - Geonovum
   - Haarlem
   - IenS-Velsen
@@ -596,7 +594,6 @@ Sweden:
   - smhi
   - SodertornHB
   - statens-maritima-museer
-  - Statenspersonadressregister
   - statisticssweden
   - Sundsvallskommun
   - Sunet
@@ -748,7 +745,6 @@ U.K. Councils:
   - LondonBoroughSutton
   - LutonCouncil
   - openglasgow
-  - RotherDC
   - RoyalBoroughKingston
   - smbc-digital
   - surreydigitalservices
@@ -833,7 +829,7 @@ U.S. County:
   - baltimorecounty
   - BayAreaMetro
   - bouldercounty
-  - CanyonCounty
+  - Canyon-County
   - CarverCounty
   - donaanacounty
   - fairfieldcountyit
@@ -980,7 +976,7 @@ U.S. Federal:
   - usda-ars-wmsru
   - USDA-ERS
   - USDA-FSA
-  - USDA-NIFA
+  - usda-nifa-b-team
   - usda-vs
   - usdaForestService
   - usdepartmentoflabor
