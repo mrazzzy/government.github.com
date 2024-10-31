@@ -312,6 +312,7 @@ Germany:
   - kdn-nrw
   - kreis-viersen
   - lobid
+  - Oberverwaltungsgericht-Rheinland-Pfalz
   - OpenBfS
   - OpenNRW
   - regional-digital
@@ -632,8 +633,8 @@ Switzerland:
 Taiwan:
   - moda-gov-tw
   - pdis
-  - taipeicity
   - taipei-doit
+  - taipeicity
 
 Thailand:
   - DGA-Thailand
@@ -867,7 +868,6 @@ U.S. Federal:
   - commercegov
   - demand-driven-open-data
   - department-of-veterans-affairs
-  - deptofdefense
   - dhs-gov
   - didsr
   - digital-analytics-program
@@ -920,13 +920,11 @@ U.S. Federal:
   - nasaworldwind
   - NationalGuard
   - nationalparkservice
-  - nationalsecurityagency
   - navadmc
   - NCI-Agency
   - NCRN
   - NeoGeographyToolkit
   - nesii
-  - ngageoint
   - ngds
   - nhanes
   - nidcd
@@ -956,14 +954,11 @@ U.S. Federal:
   - SSAgov
   - state-hiu
   - sunpy
-  - transcom
   - us-bea
   - US-CBP
   - US-Department-of-the-Treasury
   - usagov
   - usaid
-  - usajobs
-  - usarmyresearchlab
   - usasearch
   - usbr
   - uscensusbureau
@@ -999,7 +994,6 @@ U.S. Federal:
   - USGS-R
   - USGS-WiM
   - usnationalarchives
-  - USNavalResearchLaboratory
   - usopm
   - USPS
   - USPTO
