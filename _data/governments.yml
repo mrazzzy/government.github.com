@@ -115,7 +115,7 @@ Cambodia:
   - e-Government-Cambodia
 
 Canada:
-  - AAFC-MBB
+  - AAFC-BICoE
   - abgov
   - asc-csa
   - bac-lac
@@ -134,6 +134,7 @@ Canada:
   - cse-cst
   - CSPS-EFPC-DAAN
   - CybercentreCanada
+  - DTS-STN
   - ECCC-MSC
   - eodms-sgdot
   - esdc-devx
@@ -151,7 +152,6 @@ Canada:
   - LMID-DIMT
   - MC-MBO-WebPublishingTeam
   - MetPX
-  - MTS-STM
   - nrc-cnrc
   - NRCan
   - nsgov
@@ -376,7 +376,6 @@ Japan:
   - gsi-cyberjapan
   - nhohq
   - nims-dpfc
-  - wakayama-pref-org
 
 Jersey:
   - statesofjersey
@@ -412,6 +411,7 @@ Mauritius:
 Mexico:
   - CSB-IG
   - DDT-INMEGEN
+  - IDEA-GTO
   - inmegen
   - LabLeon
   - mxabierto
@@ -424,7 +424,6 @@ Netherlands:
   - dataoverheid
   - GemeenteAlmelo
   - GemeenteEde
-  - gemeentemuseum
   - Geonovum
   - Haarlem
   - IenS-Velsen
@@ -596,7 +595,6 @@ Sweden:
   - smhi
   - SodertornHB
   - statens-maritima-museer
-  - Statenspersonadressregister
   - statisticssweden
   - Sundsvallskommun
   - Sunet
@@ -636,6 +634,7 @@ Taiwan:
   - moda-gov-tw
   - pdis
   - taipeicity
+  - taipei-doit
 
 Thailand:
   - DGA-Thailand
@@ -747,7 +746,6 @@ U.K. Councils:
   - LondonBoroughSutton
   - LutonCouncil
   - openglasgow
-  - RotherDC
   - RoyalBoroughKingston
   - smbc-digital
   - surreydigitalservices
@@ -832,7 +830,7 @@ U.S. County:
   - baltimorecounty
   - BayAreaMetro
   - bouldercounty
-  - CanyonCounty
+  - Canyon-County
   - CarverCounty
   - donaanacounty
   - fairfieldcountyit
@@ -865,10 +863,12 @@ U.S. Federal:
   - cisagov
   - cloud-gov
   - cmsgov
+  - Code-dot-mil
   - commercedataservice
   - commercegov
   - demand-driven-open-data
   - department-of-veterans-affairs
+  - dhs-gov
   - didsr
   - digital-analytics-program
   - dodcio
@@ -886,6 +886,7 @@ U.S. Federal:
   - federal-courts-software-factory
   - federaltradecommission
   - fedspendingtransparency
+  - fema
   - firelab
   - globegit
   - gopleader
@@ -920,6 +921,7 @@ U.S. Federal:
   - NationalGuard
   - nationalparkservice
   - navadmc
+  - NCI-Agency
   - NCRN
   - NeoGeographyToolkit
   - nesii
@@ -934,6 +936,7 @@ U.S. Federal:
   - NOAA-ORR-ERD
   - noaa-pmel
   - ntia
+  - NUWCDIVNPT
   - ombegov
   - Open-Sat
   - opengovplatform
@@ -968,7 +971,7 @@ U.S. Federal:
   - usda-ars-wmsru
   - USDA-ERS
   - USDA-FSA
-  - USDA-NIFA
+  - usda-nifa-b-team
   - usda-vs
   - usdaForestService
   - usdepartmentoflabor
